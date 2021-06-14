@@ -1,2 +1,2 @@
 # Tesla-clone
-Using React JS this clone is created
+Using React JS and styled-components, this clone is created
